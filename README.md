@@ -1,1 +1,1 @@
-# data_science_101
+# Data Science 101
