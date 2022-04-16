@@ -14,9 +14,7 @@ Data Science 101 is an educational app to learn machine learning algorithms. Due
 This app is a beginner guide for anyone who wants to study data science and make their own machine learning models.
 This app provides high quality resources for students to study data science and machine learning algorithms and also provides required code.
 
-------------------
 Features:
-------------------
 
 1. Learn various machine learning algorithms:
 a. Linear Regression
