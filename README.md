@@ -7,7 +7,7 @@
 ![Includes all the code with output](https://play-lh.googleusercontent.com/lyYA6tBCcrps98GJ91HERuXlK4xLmwZgQS1LTh_m51xagJVvaUs7T2oGnjnyEY-GM8I=w720-h310-rw "Includes all the code with output")
 ![Build your own learning models](https://play-lh.googleusercontent.com/nZxz2mgIFvujUGx6U4HzA1JdqjnjiejwZMvoxIhVFVvTXoKctoDxO8HYz4F5rXsVvEU=w1536-h714-rw "Build your own learning models")
 ![Excellent data visualizations](https://play-lh.googleusercontent.com/4mYx_s5c-nSV_A_Vk-fy6eR5WpnFdYNM4dMOrVth0zlanKx5wug3NWJqQddKdBIF7wg=w1536-h714-rw "Excellent data visualizations")
-![Develop Data Science projects](https://play-lh.googleusercontent.com/VH_2Lcqko-i61YoLqhfDC6i6ZgRDfIlGCKdoNsD7WyZZhSXsKLqQh09gEs80zkt84aw=w1536-h714-rw "Develop Data Science projects")
+![Develop Data Science projects](https://play-lh.googleusercontent.com/iIZA9_Dns5QDANZNy-ugROO56c3DvtCOS0Te3uKcR2E2y8VYCwtVUUr5dMNQ9EV5A-A=w1536-h714-rw "Develop Data Science projects")
 
 Data Science 101 is an educational app to learn machine learning algorithms. Due to data science and artificial intelligence, new technologies are emerging and there is need for more specialization in this field.
 
