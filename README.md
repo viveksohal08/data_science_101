@@ -37,7 +37,5 @@ c. Handwritten digit recognition
 
 There are many references available if students wants to study some concepts deeply.
 
-Download this app and start learning for free.
+Download this [app](https://play.google.com/store/apps/details?id=com.successcrazzy.datascience101) and start learning for free.
 If you really like this app then share it with your friends and give it a positive rating.
-
-https://play.google.com/store/apps/details?id=com.successcrazzy.datascience101
